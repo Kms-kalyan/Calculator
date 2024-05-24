@@ -1,0 +1,11 @@
+/* Styling added for canvas layout and text */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+canvas {
+    border-radius: 20px;
+    background-color: #464343;
+    display: block;
+    margin: 20px auto;
+}
